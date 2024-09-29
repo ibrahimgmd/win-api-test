@@ -1,6 +1,4 @@
 # my-first-c-lib
-bad c++ lib btw its obviously prev
-
 compiling:
 ```bash
 g++ main.cpp cppgame.cpp -o main -lgdi32
