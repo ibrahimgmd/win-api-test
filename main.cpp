@@ -1,6 +1,6 @@
 #include "cppgame.h"
     /*TUTORIOL TIME1!!1! nvm i aint teaching (bro really changed his mind in 1 second)*/
-/*aye ppl am gonna remove "cppgame::" thing for everything except printing and ill remove the msg loop thing*/
+/*gyatt rizz*/
 int main() {
     // creates a window , 600, 500 r actually the size of the window and 100, 150 r x and y
     CppGame::createWindow("CppGame Window", 600, 500, 100, 150);
